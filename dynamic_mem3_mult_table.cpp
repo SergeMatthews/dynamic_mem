@@ -54,3 +54,4 @@ void delete_two_dim_array(int** arr, int rows, int cols) {
 		delete[] arr[i];
 	delete[] arr;
 }
+
